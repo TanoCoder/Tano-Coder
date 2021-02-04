@@ -5,7 +5,7 @@
 ## Javascript Repos
  1. [Video Game : Space Shooting](https://gaetano-di-salvo.github.io/js-video-game-space-shooting/)
  1. [Game : Hangman (Find Words)](https://gaetano-di-salvo.github.io/js-game-find-word/)
- 1. [Game : Cookie-Clicker](https://)
+ 1. [Game : Cookie-Clicker](https://gaetano-di-salvo.github.io/cookie-clicker/)
  
  
 ## PHP Repos
@@ -13,7 +13,13 @@
  1. Immo Eliza
     1.[Readme] (https://github.com/gaetano-di-salvo/PHP-ImmoEliza)
     1.[Result](https://immoeliza.herokuapp.com/)
-  
+ 1. [PDO Weather App](https://github.com/gaetano-di-salvo/php-pdo)   
+ 1. [Fundamentals](https://github.com/gaetano-di-salvo/PHP-fundamentals)
+ 
+
+## SQL Repos
+ 1. [Drill](https://github.com/gaetano-di-salvo/sql-drill)
+ 
 
 ## HTML & CSS Repos
  1. [Web Design from mockup](https://gaetano-di-salvo.github.io/web-design-from-mockup-ppds/)
