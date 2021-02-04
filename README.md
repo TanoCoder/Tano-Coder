@@ -11,8 +11,8 @@
 ## PHP Repos
  1. [OOP](https://github.com/gaetano-di-salvo/php-oop)
  1. Immo Eliza
-    1.[Readme] (https://github.com/gaetano-di-salvo/PHP-ImmoEliza)
-    1.[Result](https://immoeliza.herokuapp.com/)
+ *[Readme] (https://github.com/gaetano-di-salvo/PHP-ImmoEliza)
+ *[Result](https://immoeliza.herokuapp.com/)
  1. [PDO Weather App](https://github.com/gaetano-di-salvo/php-pdo)   
  1. [Fundamentals](https://github.com/gaetano-di-salvo/PHP-fundamentals)
  
