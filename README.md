@@ -1,6 +1,6 @@
 # Quick Overview of all repos
 
-### I’m currently learning Python
+#### I’m currently learning Python
 
 ## Javascript Repos
  1. [Video Game : Space Shooting](https://gaetano-di-salvo.github.io/js-video-game-space-shooting/)
@@ -25,10 +25,10 @@
   
 
 ## HTML & CSS Repos
- 1. [Web Design from mockup](https://gaetano-di-salvo.github.io/web-design-from-mockup-ppds/)
+ 1. [Web Design from mockup Tim Berners-Lee](https://gaetano-di-salvo.github.io/web-design-from-mockup-tim-berners-lee/) 
  1. [A simple Web Page](https://gaetano-di-salvo.github.io/page-fictive/)
- 1. [Web Design from mockup Tim Berners-Lee](https://gaetano-di-salvo.github.io/web-design-from-mockup-tim-berners-lee/)
- 
+ 1. [Web Design from mockup](https://gaetano-di-salvo.github.io/web-design-from-mockup-ppds/)
+  
  
  ## Bootstrap Repos
  1. [Bootstrap-training](https://gaetano-di-salvo.github.io/bootstrap-training/)
