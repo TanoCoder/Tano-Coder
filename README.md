@@ -1,15 +1,21 @@
-### Hi there 👋
+### Quick Overview
 
-Here are some ideas to get you started:
+- I’m currently learning ...
+  1. Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- Javascript
+ 1. [Video Game : Space Shooting](https://)
+ 1. [Game : Hangman (Find Words)](https://)
+ 
+- PHP
+ 1. [](https://)
+ 1. [](https://)
+  
 
+- HTML CSS project :  
+ 1. [Associative projet](https://)
+ 1. [Restaurant](https://)
+ 1. [TimbernersLee](https://)
+ 
 
-
+ 
