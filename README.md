@@ -1,6 +1,6 @@
 # Quick Overview of all repos
 
-#### I’m currently learning Python
+#### I’m currently learning Python...
 
 ## Javascript Repos
  1. [Video Game : Space Shooting](https://gaetano-di-salvo.github.io/js-video-game-space-shooting/)
