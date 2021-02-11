@@ -15,8 +15,7 @@
     * [Readme](https://github.com/gaetano-di-salvo/PHP-ImmoEliza)
     * [Result](https://immoeliza.herokuapp.com/)
  1. [PDO Weather App](https://github.com/gaetano-di-salvo/php-pdo)   
- 1. [Fundamentals](https://github.com/gaetano-di-salvo/PHP-fundamentals)
-  
+   
 
 ## SQL Repos
  1. [Drill](https://github.com/gaetano-di-salvo/sql-drill)
