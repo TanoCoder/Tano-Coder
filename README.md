@@ -7,9 +7,7 @@
  1. [Game : Hangman (Find Words)](https://gaetano-di-salvo.github.io/js-game-find-word/)
  1. [Game : Cookie-Clicker](https://gaetano-di-salvo.github.io/cookie-clicker/)
  1. [consume a web service via Ajax](https://gaetano-di-salvo.github.io/ajax-simple-web-service-request/)
- 1. [JavaScript SERIES 1](https://gaetano-di-salvo.github.io/javascript-series-1/) 
- 1. [INTRO : Algorithmics with JavaScript](https://github.com/gaetano-di-salvo/javascript-algorithm-introduction)
-  
+   
  
 ## PHP Repos
  1. [OOP](https://github.com/gaetano-di-salvo/php-oop)
@@ -27,7 +25,6 @@
 ## HTML & CSS Repos
  1. [Web Design from mockup Tim Berners-Lee](https://gaetano-di-salvo.github.io/web-design-from-mockup-tim-berners-lee/) 
  1. [A simple Web Page](https://gaetano-di-salvo.github.io/page-fictive/)
- 1. [Web Design from mockup](https://gaetano-di-salvo.github.io/web-design-from-mockup-ppds/)
   
  
  ## Bootstrap Repos
