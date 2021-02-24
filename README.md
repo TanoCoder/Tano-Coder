@@ -1,6 +1,9 @@
 # Quick Overview of all repos
 
-#### I’m currently learning Python...
+
+## Python
+1. [Python Workshop](https://github.com/gaetano-di-salvo/Python-Workshop)
+
 
 ## Javascript Repos
  1. [Video Game : Space Shooting](https://gaetano-di-salvo.github.io/js-video-game-space-shooting/)
