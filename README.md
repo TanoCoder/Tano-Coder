@@ -1,5 +1,8 @@
 # Quick Overview of all repos
 
+## Python
+1. [Python Workshop](https://github.com/gaetano-di-salvo/Python-Workshop)
+
 
 ## Javascript
  1. [Video Game : Space Shooting](https://gaetano-di-salvo.github.io/js-video-game-space-shooting/)
