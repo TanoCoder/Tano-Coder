@@ -1,7 +1,7 @@
 # Quick Overview of all repos
 
 ## Python
-1. [Python Workshop](https://github.com/gaetano-di-salvo/Python-Workshop)
+1. [Python Workshop presentation](https://github.com/gaetano-di-salvo/Python-Workshop)
 
 
 ## Javascript
