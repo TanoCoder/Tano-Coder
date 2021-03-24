@@ -8,8 +8,7 @@
  1. [consume a web service via Ajax](https://gaetano-di-salvo.github.io/ajax-simple-web-service-request/)
    
  
-## PHP
- 1. [OOP](https://github.com/gaetano-di-salvo/php-oop)
+## PHP 
  1. Immo Eliza
     * [Readme](https://github.com/gaetano-di-salvo/PHP-ImmoEliza)
     * [Result](https://immoeliza.herokuapp.com/)
