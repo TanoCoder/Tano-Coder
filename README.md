@@ -15,16 +15,11 @@
  1. [PDO Weather App](https://github.com/gaetano-di-salvo/php-pdo)   
    
 
-## SQL
- 1. [Drill](https://github.com/gaetano-di-salvo/sql-drill)
-  
-
 ## HTML & CSS
  1. [Web Design from mockup Tim Berners-Lee](https://gaetano-di-salvo.github.io/web-design-from-mockup-tim-berners-lee/) 
- 1. [A simple Web Page](https://gaetano-di-salvo.github.io/page-fictive/)
-  
+   
  
- ## Bootstrap Repos
+ ## Bootstrap Drill
  1. [Bootstrap-training](https://gaetano-di-salvo.github.io/bootstrap-training/)
  
  
