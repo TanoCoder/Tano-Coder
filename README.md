@@ -12,8 +12,7 @@
  1. Immo Eliza
     * [Readme](https://github.com/gaetano-di-salvo/PHP-ImmoEliza)
     * [Result](https://immoeliza.herokuapp.com/)
- 1. [PDO Weather App](https://github.com/gaetano-di-salvo/php-pdo)   
-   
+  
 
 ## HTML & CSS
  1. [Web Design from mockup Tim Berners-Lee](https://gaetano-di-salvo.github.io/web-design-from-mockup-tim-berners-lee/) 
