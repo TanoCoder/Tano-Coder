@@ -18,7 +18,3 @@
  1. [Web Design from mockup Tim Berners-Lee](https://gaetano-di-salvo.github.io/web-design-from-mockup-tim-berners-lee/) 
    
  
- ## Bootstrap Drill
- 1. [Bootstrap-training](https://gaetano-di-salvo.github.io/bootstrap-training/)
- 
- 
