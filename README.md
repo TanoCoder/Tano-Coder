@@ -1,4 +1,4 @@
-# Quick Overview of all repos
+# Quick Overview of some repos
 
 ## Javascript
  1. [Video Game : Space Shooting](https://gaetano-di-salvo.github.io/js-video-game-space-shooting/)
