@@ -10,8 +10,7 @@
  
 ## PHP 
  1. Immo Eliza
-    * [Readme](https://github.com/tanocoder/PHP-ImmoEliza)
-    * [Result](https://immoeliza.herokuapp.com/)
+    * [Readme](https://github.com/tanocoder/PHP-ImmoEliza)    
   
 
 ## HTML & CSS
